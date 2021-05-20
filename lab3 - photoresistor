@@ -1,4 +1,4 @@
-## photoresistor, simulating frige light
+## photoresistor, simulating fridge light
 
 int ledPin = 6;
 int sensorPin = A0;
