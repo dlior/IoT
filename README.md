@@ -1,6 +1,6 @@
 # IoT
-## IoT course @Technion. Working with ESP32.
-## Lab exercises
+## IoT course @Technion -- Working with ESP32.
+## Lab exercises with Zeev Yampolsky
 
 ### course project -- IoT device for fridge: 
 * temperature, humidity, door open/close
